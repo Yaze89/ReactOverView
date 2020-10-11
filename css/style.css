@@ -1,0 +1,17 @@
+body {
+    font-size: 14px;
+    background: #eee;
+    color: #666;
+}
+
+.login-container{
+     height: 100vh;
+     width: 100%
+}
+
+.login-form{
+    max-width: 100%;
+    width: 370px;
+    padding: 1px;
+    margin: auto;
+}
